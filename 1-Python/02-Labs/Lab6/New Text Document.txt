@@ -1,0 +1,4 @@
+variadic fun
+inline fun
+function like macro
+function like micro
